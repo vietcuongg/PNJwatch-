@@ -1,0 +1,51 @@
+﻿.phanGiua {
+    height: 2500px auto;
+    margin-top: 210px;
+    margin-left: 85px;
+    margin-right: 85px;
+}
+
+    .phanGiua .row {
+        margin-top: 22px
+    }
+
+.keng::before {
+    left: 340px;
+}
+
+.keng::after {
+    right: 340px;
+}
+
+.keng {
+    text-align: center;
+    position: relative;
+    font-size: 30px;
+}
+
+    .keng::before, .keng::after {
+        content: "";
+        display: block;
+        height: 2px;
+        width: 60px;
+        position: absolute;
+        top: calc(50% - 1px);
+        background-color: rgb(27, 126, 230);
+    }
+
+.chh {
+    font-size: 16px;
+    font-weight: bolder;
+    color: red;
+    margin-top: 3pc;
+}
+
+.phanGiua h5 {
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+.phanGiua p {
+    font-size: 13.5px;
+    margin-top: -6px;
+}

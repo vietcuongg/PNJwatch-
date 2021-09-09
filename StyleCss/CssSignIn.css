@@ -1,0 +1,72 @@
+﻿.phanGiua {
+    height: 670px;
+    margin-top: 210px;
+    margin-left: 172px;
+    margin-right: 193px;
+}
+
+    .phanGiua input {
+        width: 380px; text-align: left; border: none; box-shadow: none;
+        border-bottom: 0.5px solid gray; border-radius: inherit;
+    }
+    .phanGiua input:focus {border-bottom: 0.5px solid blue;}
+
+.kedoc { 
+    margin-top: 0; float: left; height: 456px;
+    border: none; border-right-style: inset;
+}
+
+.p2 {
+    font-size: 25px;
+}
+
+.p25 {
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+.p16 {
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.anh7 {
+    margin-left: 28px
+}
+
+.c3 {
+    margin-top: 22px;
+}
+
+    .c3 label {
+        color: red
+    }
+
+    .c3 span {
+        font-size: 14px;
+    }
+
+    .eee {display: flex; flex-wrap: wrap;}
+    .eee a {
+        width: 375px; height: 40px; color: whitesmoke;
+        background-color: red; display: block; margin-top: 13px;
+        text-align: center; text-decoration: none;  
+    }
+    .eee p {
+        font-size: 14px; font-weight: bolder; margin-top: 10px;
+    }
+
+.fff {
+    margin-top: 10px;
+}
+
+    .fff a {
+        font-size: 14px;
+        font-weight: 600;
+        text-decoration: underline;
+    }
+
+.ggg {
+    width: 77%;
+    float: right;
+}

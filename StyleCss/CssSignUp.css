@@ -1,0 +1,99 @@
+﻿.p4 {
+    font-size: 25px;
+}
+
+.c3 {
+    margin-top: 22px;
+}
+
+    .c3 label {
+        color: red
+    }
+
+    .c3 span {
+        font-size: 14px;
+    }
+
+.phanGiua {
+    height: 740px;
+    margin-top: 210px;
+    margin-left: 387px;
+    margin-right: 387px;
+}
+
+    .phanGiua input {
+        width: 100%; text-align: left; border: none;  box-shadow: none;
+        border-bottom: 0.5px solid gray; border-radius: inherit;  
+    }
+        .phanGiua input:focus { border-bottom: 0.5px solid blue;}
+
+.lui {
+    margin-top: 30px;
+}
+
+.p16 {
+    font-size: 16px;
+    margin-top: 30px;
+}
+
+.fff {
+    display: inline;
+}
+
+    .fff a {
+        float: right;
+        margin-top: -29px;
+        font-size: 15px;
+        font-weight: 600;
+        text-decoration: underline;
+    }
+
+.chon {
+    display: flex;
+}
+
+    .chon input {
+        width: 32%; text-align: left; border: none; box-shadow: none;
+        border-bottom: 0.5px solid gray; border-radius: inherit;
+        
+    }
+    .chon input:focus {border-bottom: 0.5px solid blue;}
+
+    .phanGiua select {
+        width: 31%; text-align: left; border: none;
+        border-bottom: 0.5px solid gray; border-radius: inherit;
+        box-shadow: none; margin-right: 18px
+    }
+    .phanGiua select:focus {border-bottom: 0.5px solid blue;}
+
+.db {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-top: 30px;
+}
+
+    .db a {
+        color: dodgerblue
+    }
+
+.eee {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+    .eee a {
+        width: 100%;
+        height: 40px;
+        color: whitesmoke;
+        background-color: red;
+        display: block;
+        text-align: center;
+        text-decoration: none;
+        margin-top: 13px;
+    }
+
+    .eee p {
+        font-size: 14px;
+        font-weight: bolder;
+        margin-top: 10px;
+    }
